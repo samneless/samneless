@@ -139,5 +139,5 @@ liked_content:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c30000&fontAlignY=40&animation=fadeIn&fontColor=b5b5b5&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c30000&fontAlignY=40&animation=fadeIn&fontColor=b5b5b5&section=footer"/>
 </p>
