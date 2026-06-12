@@ -1,7 +1,5 @@
 <div align="center">
 
-# Oxi tropa
-
-<img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" width="600"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vulgo%20Careca&section=header&reversal=false&textBg=false" width="600"/>
 
 </div>
