@@ -33,7 +33,7 @@
 
 ```yaml
 name: Samuel P
-located_in: Brazil
+located: Brazil
 current_job: Administrative Assistant
 education: only showed up at school to take the exams
 
@@ -112,7 +112,7 @@ liked_content:
 ---  
   
 <h2> ⭐&nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="http" width="45" height="45"/>
@@ -139,5 +139,5 @@ liked_content:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c30000&fontAlignY=40&animation=fadeIn&fontColor=b5b5b5&section=footer"/>
 </p>
