@@ -8,7 +8,7 @@
 <h2 align="center">Samneless</h2>
 
 <p align="center">
-  I see repetitive work and immediately want to automate it.
+  I just want to automate everything.
 </p>
 
 <p align="center">
