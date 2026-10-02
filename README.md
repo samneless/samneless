@@ -1,61 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=c30000&text=Vulgo%20Careca&fontAlignY=40&animation=fadeIn&fontColor=b5b5b5"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=c30000&text=Samuel&fontAlignY=40&fontSize=48&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">
-  Follow me! (im really cool)🦎
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B5B5B5&center=true&width=500&lines=Automation+enthusiast;If+it's+repetitive%2C+I'll+automate+it;Hobbyist+developer+%7C+Python+%2F+JS+%2F+Rust" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-<a href="https://www.instagram.com/samneless/">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/3840px-Instagram_icon.png"/>
-</a>
-<a href="https://x.com/Samneless">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Twitter.svg"/>
-</a>
-<a href="https://discord.com/users/667778668831047685">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg"/>
-</a>
-<a href="https://steamcommunity.com/profiles/76561198970913149/">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png"/>
-</a>
-<a href="https://www.tiktok.com/@samneless">
-  <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/016/716/450/small/tiktok-icon-free-png.png"/>
-</a>
-<a href="https://www.reddit.com/user/Samneless/">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/250px-Reddit_Logo_Icon.svg.png"/>
-</a>
-</p>
-  
----  
-  
-<h2> ⭐&nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="http" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="restapi" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt ="lua" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="flask" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="oracle" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="sqlite" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="playwright" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="arduino" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="android" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="ubuntu" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/3840px-CachyOS_Logo.svg.png" alt="cachyos" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+  <a href="https://manualess.com.br">
+    <img src="https://img.shields.io/badge/Website-manualess.com.br_(WIP)-c30000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.instagram.com/samneless/">
+    <img src="https://img.shields.io/badge/Instagram-@samneless-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
+---
+
+### About me
+
+- Hi, I'm Samuel. I don't work in tech — I code as a hobby.
+- My focus is **automation**: scripts, bots and tools to automate everything I can.
+- Started with **Lua on Roblox**, which got me into programming logic.
+- Today I build mostly with **Python for automation** and **Tauri + React for desktop apps**.
+- 🌐 Building `manualess.com.br` — still work in progress.
+
+### Core stack
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c30000&fontAlignY=40&animation=fadeIn&fontColor=b5b5b5&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=py,js,react,rust,tauri,lua&theme=dark" alt="Python, JavaScript, React, Rust, Tauri, Lua"/>
+</p>
+
+> Python · JavaScript · React · Rust · Tauri · Lua
+
+*Why this set works: Tauri = Rust (backend) + React/JS (frontend). Python covers automation. Lua is your origin.*
+
+### What I do
+
+- `automation` — repetitive tasks, scrapers, helpers with Python + Playwright
+- `desktop` — lightweight apps with Tauri + React
+- `learning` — deepening Rust and modern JS for Tauri
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c30000&section=footer"/>
 </p>
