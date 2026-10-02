@@ -1,48 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=c30000&text=Samuel&fontAlignY=40&fontSize=48&animation=fadeIn&fontColor=ffffff"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=FFFFFF&text=less&fontSize=64&fontColor=111111&fontAlignY=45&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B5B5B5&center=true&width=500&lines=Automation+enthusiast;If+it's+repetitive%2C+I'll+automate+it;Hobbyist+developer+%7C+Python+%2F+JS+%2F+Rust" alt="Typing SVG" />
-</h3>
+<h2 align="center">Samneless</h2>
 
 <p align="center">
-  <a href="https://manualess.com.br">
-    <img src="https://img.shields.io/badge/Website-manualess.com.br_(WIP)-c30000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  I see repetitive work and immediately want to automate it.
+</p>
+
+<p align="center">
+  Automation · Software · Developer Tools
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/samneless/">
-    <img src="https://img.shields.io/badge/Instagram-@samneless-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-samneless-111111?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### About me
+### What I'm into
 
-- Hi, I'm Samuel. I don't work in tech — I code as a hobby.
-- My focus is **automation**: scripts, bots and tools to automate everything I can.
-- Started with **Lua on Roblox**, which got me into programming logic.
-- Today I build mostly with **Python for automation** and **Tauri + React for desktop apps**.
-- 🌐 Building `manualess.com.br` — still work in progress.
+I build software around automation, developer tools and lightweight applications.
 
-### Core stack
+Mostly working with things that make repetitive workflows simpler, faster,
+or just less annoying.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,rust,tauri,lua&theme=dark" alt="Python, JavaScript, React, Rust, Tauri, Lua"/>
-</p>
-
-> Python · JavaScript · React · Rust · Tauri · Lua
-
-*Why this set works: Tauri = Rust (backend) + React/JS (frontend). Python covers automation. Lua is your origin.*
-
-### What I do
-
-- `automation` — repetitive tasks, scrapers, helpers with Python + Playwright
-- `desktop` — lightweight apps with Tauri + React
-- `learning` — deepening Rust and modern JS for Tauri
-
----
+### Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c30000&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,react,tauri,lua&theme=light" />
 </p>
+
+<p align="center">
+  Python · Rust · TypeScript · React · Tauri · Lua
+</p>
+
+### A little bit of history
+
+Lua was the language that got me into programming.
+
+I started with it through Roblox, which eventually turned into an interest
+in building software for pretty much anything I find repetitive.
+
+### Currently
+
+```text
+automation
+developer tools
+desktop applications
+building things that save time
